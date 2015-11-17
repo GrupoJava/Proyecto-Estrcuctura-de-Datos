@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sensor Educativo</string>
+    <string name="frase">Controla la educacion</string>
+    <string name="lunes">Lunes</string>
+    <string name="martes">Martes</string>
+    <string name="miercoles">Miercoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="sabado">Sabado</string>
+    <string name="domingo">Domingo</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="diez">10</string>
+    <string name="once">11</string>
+    <string name="doce">12</string>
+    
+    
+    <string name="edit_message">Ingrese el carne</string>
+    <string name="pass_message">Ingrese su contraseña</string>
+    <string name="button_send">Verificar</string>
+    <string name="error_usuario">Error en la carne. Reviselo y vuelva a intentar</string>
+    <string name="registro">Registrarse</string>
+    <string name="bienvenida">Bienvenido al Sensor Educativo</string>
+    <string name="bienvenidaAcla">El dia mas problematico es:</string>
+    <string name="intruccionesTemas">La hora mas problematica es:</string>
+    <string name="botonTema">Ver Alarmas</string>
+    <string name="titulo_tema">Alarmas</string>
+    <string name="explicacion_tema">Escoga el tema que desea ejercitar</string>
+    <string name="action_settings">Aplicacion en Contruccion</string>
+    <string name="title_activity_display_message">Temas</string>
+    <string name="title_activity_desplegar_temas">Temas</string>
+    <string name="title_activity_desplegar_usuario">Home</string>
+    <string name="title_activity_mostrar_tema">Tema</string>
+    <string name="title_activity_mostrar_ejercicios">Zona de Ejercicio</string>
+    <string name="title_activity_activity_resultado">Resultado</string>
+    <string name="title_activity_registro">Registrarse</string>
+    <string name="title_activity_mostrar_profesor">MostrarProfesor</string>
+    <string name="consultarCarne">Consultar</string>
+    <string name="bienvenidaProfesor">Bienvenido Profesor</string>
+    <string name="consultaEstudiantes">Consulta de progreso estudiantil</string>
+    <string name="carneEstudiante">Carne de estudiante</string>
+    <string name="editarTemas">Editar Temas</string>
+    <string name="editarEjercitaciones">Editar Ejercitaciones</string>
+    <string name="editarEjercicios">Editar Ejercicios</string>
+    <string name="title_activity_editar_ejercicios_seleccionando_tema">Temas</string>
+    <string name="title_activity_editar_seleccion_ejercitacion">Ejercitacion</string>
+    <string name="title_activity_editar_ejercicios">Editar Ejercicios</string>
+    <string name="title_activity_editar_ejercitaciones_tema">Temas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_editar_ejercitacion">Editar Ejercitacion</string>
+    <string name="title_activity_editar_tema">Editar Tema</string>
+
+</resources>
